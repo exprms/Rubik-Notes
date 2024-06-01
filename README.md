@@ -27,9 +27,13 @@ die richtigen Kanten müssen oben in der Mitte sein. Dann will man sie nach rech
  
 - gelbes Kreuz herstellen:
   - `F 1R F'`  dann gelben Balken quer nehmen und noch mal zweimal `F 1R F'`
+    
 - gelbes Kreuz richten: <br>
 es stimmen entweder 2 oder 4 Kanten. Fals nur 2 dann den Algorithmus wiederholen bis es passt:
-  - 
+  - d
+ 
+
+  
 ## WCA Cube verstellen:
 Algorithmus, beginnend mit weiß oben und grün vorne:
 ```
