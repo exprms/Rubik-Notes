@@ -38,5 +38,5 @@ B' R2 B2 R2 U' R2 B2 D2 F2 R2 D2 B L D2 R2 D B' F R B2
 
 ## Source
 
-- [Cube lösen]()
-- [WCA Cube verstellen](https://www.google.com/search?q=WCA+cube+richtig+verdrehen&client=ubuntu-sn&hs=pj3&sca_esv=b92ff2ff420a2afa&channel=fs&sxsrf=ADLYWIKmX6XFCebKqAnjAN8CWRBWz2H6ww%3A1717229788969&ei=3NhaZtvhOsC9xc8PkNC2gAo&ved=0ahUKEwjbv8a8-7mGAxXAXvEDHRCoDaAQ4dUDCA8&uact=5&oq=WCA+cube+richtig+verdrehen&gs_lp=Egxnd3Mtd2l6LXNlcnAiGldDQSBjdWJlIHJpY2h0aWcgdmVyZHJlaGVuMgUQIRigATIFECEYoAFIgDFQpAlYqy9wAXgBkAEAmAG0AqAByBqqAQgzLjIxLjEuMbgBA8gBAPgBAZgCG6ACtxvCAgoQABiwAxjWBBhHwgIKECMYgAQYJxiKBcICDBAjGIAEGBMYJxiKBcICCxAAGIAEGJECGIoFwgIKEAAYgAQYQxiKBcICCxAuGIAEGNEDGMcBwgIFEAAYgATCAgUQLhiABMICBhAAGBYYHsICCxAAGIAEGIYDGIoFwgIIEAAYgAQYogTCAgQQIRgVwgIHECEYoAEYCsICBBAhGAqYAwDiAwUSATEgQIgGAZAGCJIHCDQuMjAuMi4xoAe-Yg&sclient=gws-wiz-serp#fpstate=ive&vld=cid:a28c55b4,vid:7DJV3X6BnvE,st:0)
+- [Cube lösen](https://www.youtube.com/watch?v=HYyrneUsJ88)
+- [WCA Cube verstellen](https://www.youtube.com/watch?v=7DJV3X6BnvE)
