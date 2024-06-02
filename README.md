@@ -1,4 +1,4 @@
-# Rubrik-Notes
+# Rubik-Notes
 Bezeichnung: <br>
 - **B**ack
 - **F**ront
